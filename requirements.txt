@@ -1,0 +1,11 @@
+git+https://github.com/MrMKN/pyrogram@inline-m                      
+TgCrypto
+asyncio
+pymongo
+dnspython
+telegraph
+aiohttp
+python-dotenv
+requests
+Heroku3
+motor
